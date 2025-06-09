@@ -137,7 +137,7 @@ secure-file-transfer/
 
 ## 🎥 Proje Tanıtım Videosu
 
-📺 [YouTube Videosunu İzle](YOUR_VIDEO_LINK)
+📺 [YouTube Videosunu İzle](https://youtu.be/x-j_24bwzZQ?si=vA6B3qvKPAPv1ho9)
 
 Bu videoda sistemin işleyişi, GUI kullanımı, ağ testleri ve güvenlik analizi detaylı olarak anlatılmıştır.
 
