@@ -155,15 +155,8 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 **Gamze Yarımkulak**  
 📚 Bursa Teknik Üniversitesi – Bilgisayar Mühendisliği  
 🔗 GitHub: [@GamzeYarimkulak](https://github.com/GamzeYarimkulak)  
-🔗 LinkedIn: [LinkedIn Profilim](YOUR_LINKEDIN_PROFILE)
+🔗 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/gamze-yarimkulak/)
 
-Bu proje, 2025 Bahar Dönemi "Computer Networks" dersi dönem projesi olarak geliştirilmiştir.
+Bu proje, 2025 Bahar Dönemi "Bigisayar Ağları" dersi dönem projesi olarak geliştirilmiştir.
 
 ---
-
-## 📝 Ekstra Notlar
-
-- `YOUR_VIDEO_LINK` yerine YouTube videonu yükledikten sonra linki yapıştırın.
-- `YOUR_LINKEDIN_PROFILE` yerine LinkedIn profil linkinizi ekleyin.
-- Görseller eklemek isterseniz `screenshots/` klasörü oluşturup ilgili alanlara referans ekleyebilirsiniz.
-- Bu README artık projenin tüm güçlü yönlerini yansıtıyor ve LinkedIn'de de paylaşım için uygundur.
